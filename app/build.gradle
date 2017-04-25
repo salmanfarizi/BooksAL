@@ -6,7 +6,7 @@ android {
     buildToolsVersion '25.0.0'
 
     defaultConfig {
-        applicationId "id.co.visionet.bookinventory"
+        applicationId "id.al.bookinventory"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
